@@ -244,6 +244,7 @@ hr{
 .portfolio .container-fluid .row img{
     width: 330px;
     height: 245px;
+    object-fit: cover;
 }
 
 .award {
